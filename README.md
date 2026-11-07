@@ -16,6 +16,12 @@ A collection of equation sheets for a variety of undergraduate courses in physic
    * Mathematical Methods for Physics
    * Thermal and Fluids Engineering
 
+## Attribution
+
+The first sheet made was for Intermediate E&M and was adapted from and inspired by the equation sheet made by Dr. Steven Pollock, Professor, University of Colorado Boulder Physics Department for his E&M class. It is shared under CC BY-NC-SA 3.0 at [PhysPort](https://www.physport.org/curricula/CUBoulder/EM12). (It is called the "Purple Crib Sheet" there.) All subsequent sheets have used the same basic styling from this first one.
+
+In a couple of rare cases, certain content from the sheets provided here has been redacted due to copyright concerns.
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
