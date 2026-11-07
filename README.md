@@ -1,8 +1,20 @@
-# equation-sheets
+# Physics Equation Sheets
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-A collection of equation sheets for a variety of undergraduate courses in physics
+A collection of equation sheets for a variety of undergraduate courses in physics. The following courses are included.
+
+* Intro
+   * Algebra-based Intro Physics I and II
+   * Calculus-based Intro Physics I and II
+* Intermediate (Upper-division undergraduate)
+   * Mechanics
+   * E&M
+   * Quantum Mechanics
+   * Statistical Mechanics and Advanced Thermodynamics
+* Other
+   * Mathematical Methods for Physics
+   * Thermal and Fluids Engineering
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
